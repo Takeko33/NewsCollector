@@ -1,2 +1,2 @@
 # NewsCollector
-a collector that collect news on several website 
+a collector that collect news from several websites
